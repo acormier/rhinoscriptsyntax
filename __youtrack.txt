@@ -7,4 +7,5 @@ changed to @mcneel.com email address
 allow all origins
 change git user.name to "alain"
 changed Manage Youtrack (from github) username back to "alain" from "alain@mcneel.com"
+try this comment: "aoeu #RH-30450 Fixed"
 
