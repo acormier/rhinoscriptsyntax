@@ -14,5 +14,6 @@ remove mcneel email from github and see if this works.
 completely remove mcreel email from gh account.
 change user.email in repo
 reset user.email to match youtrack
+how about a tag?
 
 
