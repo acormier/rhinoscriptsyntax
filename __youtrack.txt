@@ -9,4 +9,5 @@ change git user.name to "alain"
 changed Manage Youtrack (from github) username back to "alain" from "alain@mcneel.com"
 try this comment: "aoeu #RH-30450 Fixed"
 try "Closed" instead.
+That worked!  Let's try a few more things.
 
