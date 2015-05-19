@@ -11,4 +11,6 @@ try this comment: "aoeu #RH-30450 Fixed"
 try "Closed" instead.
 That worked!  Let's try a few more things.
 remove mcneel email from github and see if this works.
+completely remove mcreel email from gh account.
+
 
