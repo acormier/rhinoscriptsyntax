@@ -2,3 +2,5 @@ youtrack test
 try something else
 updated the manage youtrack service on github.
 update Allowed Origins for youtrack rest api settings
+regenerated tho OAuth token
+
